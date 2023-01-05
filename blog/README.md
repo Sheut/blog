@@ -1,2 +1,0 @@
-# blog
-Food for thought
